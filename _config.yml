@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9568196882028133
+typography_spectrum: 0.9960143333300948
 color:
-  saturation: 0.7736075017601252
-  brandStrength: 0.6345906159840524
-  rhythmicContrast: 0.3206546460278332
+  brandStrength: 0.015464165015146136
+  lightness: 0.9664975828491151
+  saturation: 0.8495807056315243
+  rhythmicContrast: 0.17268463992513716
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  lightness: 0.7860590387135744
-layout_spectrum: 0.3603652
+layout_spectrum: 0.3484092829748988
 name: badmintoncoach
