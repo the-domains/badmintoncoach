@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9960143333300948
+    permalink:
+      path: '/:title/'
 color:
-  brandStrength: 0.015464165015146136
-  lightness: 0.9664975828491151
-  saturation: 0.8495807056315243
-  rhythmicContrast: 0.17268463992513716
+  saturation: 0.4054779
+  brandStrength: 0.01546416501514614
+  lightness: 0.5537057
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.3484092829748988
+  rhythmicContrast: 0.2475832
+typography_spectrum: 0.9960143333300948
+layout_spectrum: 0.6621912
 name: badmintoncoach
