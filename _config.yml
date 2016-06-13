@@ -1,0 +1,14 @@
+layout_spectrum: 0.7734366876538843
+typography_spectrum: 0.9568196882028133
+color:
+  brandStrength: 0.6345906159840524
+  lightness: 0.7860590387135744
+  saturation: 0.7736075017601252
+  rhythmicContrast: 0.3206546460278332
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: badmintoncoach
