@@ -11,16 +11,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8566231608856469
-  brandStrength: 0.6455834051594138
-  lightness: 0.6617191394325346
+  saturation: 0.7325865384191275
+  brandStrength: 0.9175998631399125
+  lightness: 0.32304806681349874
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  rhythmicContrast: 0.917303116992116
-typography_spectrum: 0.20136853982694447
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.4064445795956999
+typography_spectrum: 0.8156416954007
 layout_spectrum: 0.5227814102545381
 name: badmintoncoach
