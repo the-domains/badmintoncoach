@@ -18,6 +18,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: BADMINTONCOACH WANTED
 cta:
   domain: null
   bucket: null
