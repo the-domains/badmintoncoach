@@ -31,15 +31,15 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+name: BADMINTONCOACH WANTED
 author:
   name: Diemo Ruhnow
   email: diemoruhnow@web.de
   url: 'http://www.badminton.training'
-name: BADMINTONCOACH WANTED
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8156416954007
-layout_spectrum: 0.7524167
+layout_spectrum: 0.5171858
