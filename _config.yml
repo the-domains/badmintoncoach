@@ -1,30 +1,30 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+author:
+  name: Diemo Ruhnow
+  email: diemoruhnow@web.de
+  url: 'http://www.badminton.training'
 color:
   saturation: 0.7325865384191275
   brandStrength: 0.9175998631399125
-  lightness: 0.32304806681349874
+  rhythmicContrast: 0.4064445795956999
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  rhythmicContrast: 0.4064445795956999
-typography_spectrum: 0.8156416954007
+  lightness: 0.3230480668134987
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.5227814102545381
+typography_spectrum: 0.8156416954007
 name: BADMINTONCOACH WANTED
-author:
-  name: Diemo Ruhnow
-  email: diemoruhnow@web.de
-  url: 'http://www.badminton.training'
