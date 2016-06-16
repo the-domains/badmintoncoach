@@ -6,31 +6,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.7105263
-  brandStrength: 0
-  lightness: 0.9500536
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  rhythmicContrast: 0.840494
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  brandStrength: 0.698696888750419
+  lightness: 0.2886474863626063
+  saturation: 0.2858467230107635
+  rhythmicContrast: 0.8268238501623273
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
 name: BADMINTONCOACH WANTED
 author:
   name: Diemo Ruhnow
@@ -41,5 +41,5 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8156416954007
-layout_spectrum: 0.5171858
+typography_spectrum: 0.013241205830127
+layout_spectrum: 0.5227814102545381
