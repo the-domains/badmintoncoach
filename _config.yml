@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.2858467230107635
+  saturation: 0.2858467
   brandStrength: 0.698696888750419
-  rhythmicContrast: 0.8268238501623273
+  lightness: 1
   brandColors:
     - '#E7E8D1'
     - '#D3CEAA'
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-  lightness: 0.2886474863626063
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -32,11 +32,11 @@ analytics:
   google: null
   facebook: null
 favicon: null
+name: BADMINTONCOACH WANTED
 author:
   name: Diemo Ruhnow
   email: diemoruhnow@web.de
   url: 'http://www.badminton.training'
-name: BADMINTONCOACH WANTED
 opengraph:
   image: null
   type: null
