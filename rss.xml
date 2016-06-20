@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BADMINTONCOACH WANTED]]></title>
+        <description><![CDATA[BADMINTONCOACH WANTED]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 21:52:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baden-Württemberg - Test]]></title>
+            <description><![CDATA[<article><h1>Baden-Württemberg - Test</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/974ce703-0d86-4c69-8527-3b6154a1f297.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/974ce703-0d86-4c69-8527-3b6154a1f297.jpg</link>
+            <guid isPermaLink="false">c23f1899-dee5-4af8-b6b1-11d2052aac20</guid>
+            <pubDate>Mon, 20 Jun 2016 21:51:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
