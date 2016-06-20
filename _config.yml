@@ -1,45 +1,45 @@
-name: BADMINTONCOACH WANTED
-favicon: null
-layout_spectrum: 0.66666
-typography_spectrum: 0.013241205830127
 title: BADMINTONCOACH WANTED
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-author:
-  name: Diemo Ruhnow
-  email: diemoruhnow@web.de
-  url: 'http://www.badminton.training'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.2858467230107635
+  brandStrength: 0.698696888750419
+  rhythmicContrast: 0.8268238501623273
   brandColors:
     - '#E7E8D1'
     - '#D3CEAA'
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-  brandStrength: 0.698696888750419
   lightness: 0.2886474863626063
-  saturation: 0.2858467230107635
-  rhythmicContrast: 0.8268238501623273
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+author:
+  name: Diemo Ruhnow
+  email: diemoruhnow@web.de
+  url: 'http://www.badminton.training'
+name: BADMINTONCOACH WANTED
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.013241205830127
+layout_spectrum: 0.3388829
