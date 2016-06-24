@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.35770819429308176
+  saturation: 0.3577081942930818
   brandStrength: 0.9353558351285756
-  lightness: 0.4704552504699677
+  rhythmicContrast: 0.3979327282868326
   brandColors:
     - '#96CA2D'
     - '#B5E655'
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-  rhythmicContrast: 0.39793272828683257
+  lightness: 0.4704552504699677
 cta:
   bucket: null
   version: null
@@ -32,14 +32,14 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: BADMINTONCOACH WANTED
 author:
   name: Diemo Ruhnow
   email: diemoruhnow@web.de
   url: 'http://www.badminton.training'
+name: BADMINTONCOACH WANTED
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4972748749423772
-layout_spectrum: 0.7129287323914468
+layout_spectrum: 0.6965628
