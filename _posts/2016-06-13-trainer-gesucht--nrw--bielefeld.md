@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-06-24T21:01:05.460Z'
+datePublished: '2016-06-24T21:03:56.798Z'
 author: []
 title: 'Nordrhein-Westfalen: Bielefeld'
 description: ''
 sourcePath: _posts/2016-06-13-trainer-gesucht--nrw--bielefeld.md
-dateModified: '2016-06-24T21:01:00.511Z'
+dateModified: '2016-06-24T21:01:10.096Z'
 starred: false
 inFeed: true
 hasPage: false
