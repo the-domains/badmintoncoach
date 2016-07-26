@@ -4,7 +4,7 @@
         <description><![CDATA[BADMINTONCOACH WANTED]]></description>
         <link>http://www.badminton.one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 14:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 18:17:12 GMT</lastBuildDate>
         <atom:link href="http://www.badminton.one/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/974ce703-0d86-4c69-8527-3b6154a1f297.jpg</link>
             <guid isPermaLink="false">c23f1899-dee5-4af8-b6b1-11d2052aac20</guid>
             <pubDate>Fri, 24 Jun 2016 20:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NRW - Wuppertal]]></title>
-            <description><![CDATA[<article><h1>NRW - Wuppertal</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4188ba01-6140-4f8e-a1d4-ac42703d7ca9.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4188ba01-6140-4f8e-a1d4-ac42703d7ca9.jpg</link>
-            <guid isPermaLink="false">7c18ac24-e56d-4d41-b072-bfac031079d1</guid>
-            <pubDate>Mon, 20 Jun 2016 21:52:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
