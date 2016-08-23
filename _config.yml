@@ -1,3 +1,16 @@
+layout_spectrum: 0.4016634449362755
+typography_spectrum: 0.9886798982042819
+color:
+  saturation: 0.23393412865698338
+  brandStrength: 0.9744454470928758
+  rhythmicContrast: 0.9274445890914649
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  lightness: 0.452750772703439
 title: BADMINTONCOACH WANTED
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.11299773119390011
-  brandStrength: 0.06311606452800333
-  rhythmicContrast: 0.4924015214201063
-  brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
-  lightness: 0.9402295460458845
 cta:
   bucket: null
   version: null
@@ -41,5 +43,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.541263768216595
-layout_spectrum: 0.5078371246345341
